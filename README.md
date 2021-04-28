@@ -6,7 +6,7 @@ You played this game when the Internet cut off, didn’t you? It is time to reme
 ## Learning outcomes
 This project will teach you how to work with multidimensional arrays in Java. You will be dealing with algorithms for generating the playfield and processing player moves. You will also find out what collections and stacks are.
 
-##Stage 1: Lay down the groundwork
+## Stage 1: Lay down the groundwork
 ### Description
 Minesweeper is a game of logic where the player is presented with a field full of hidden mines. The goal is to mark the positions of all mines without setting any of them off. It's not a game of wild guessing: it offers hints showing the number of mines around each cell. One wrong move, and game over!
 
